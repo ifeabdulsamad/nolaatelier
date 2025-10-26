@@ -2,6 +2,7 @@
 
 @theme{
   --color-brand: #4b3e61;
+  --color-bg: #fddde1;
 }
 
 
@@ -26,4 +27,8 @@
   position: relative;
   background-position: center;
   height: 100vh;
+}
+
+.background{
+  background-color: #fddde1;
 }
