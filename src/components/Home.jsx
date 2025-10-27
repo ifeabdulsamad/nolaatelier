@@ -8,13 +8,13 @@ const Home = () => {
     <>
       <div className="bg-test"> </div>
       <Navbar />
-      <main className="mx-auto absolute top-20 md:top-6 flex w-full align-middle h-screen  ">
-        <div className="md:flex md:my-auto align-baseline   mx-auto gap-[310px] ">
-          <div className=" my-auto">
+      <main className="mx-auto absolute top-0 flex w-full align-middle h-screen  ">
+        <div className="md:flex justify-center items-center mx-auto gap-[310px] h-screen ">
+          <div className="">
             <img
               src="src/img/Brand name.png"
               alt="brand name"
-              className="w-[10rem] md:w-[30rem]"
+              className="w-[10rem] md:w-[30rem] align-middle "
             />
             <h4 className="text-[15px] font-bold text-brand">
               MADE FOR THE CONFIDENT GEN-Z
@@ -29,7 +29,7 @@ const Home = () => {
           <div>
             <img
               src="src/img/HERO-MODEL.png"
-              className="w-48 md:w-[14.5rem] object-contain md:mr-40  my-24"
+              className="w-48 md:w-[12.5rem] object-contain md:mr-4 mt-9"
               alt=""
             />
           </div>

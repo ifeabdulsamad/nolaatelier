@@ -5,7 +5,9 @@ export const Product = () => {
     <>
       <section className="py-16 ">
         {/* Gallery heading */}
-        <h2 className="text-3xl font-bold text-center mb-10">-Gallery-</h2>
+        <h2 className="text-3xl font-bold text-center mb-10 text-brand">
+          -Gallery-
+        </h2>
 
         {/* Responsive grid */}
         <main className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4 px-6">
