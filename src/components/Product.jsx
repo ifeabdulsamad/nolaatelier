@@ -30,7 +30,7 @@ export const Product = () => {
               className="overflow-hidden rounded-2xl shadow-lg hover:scale-105 transition-transform duration-300 bg-gray-100"
             >
               <img
-                src={`public/img/model/${img}`}
+                src={`/img/model/${img}`}
                 alt={`model ${i + 1}`}
                 className="w-full h-[420px] object-cover object-center"
               />

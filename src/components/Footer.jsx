@@ -6,7 +6,7 @@ export const Footer = () => {
       <footer class="">
         <div class="mx-auto max-w-5xl  sm:px-6 lg:px-8 ">
           <div class="flex justify-center ">
-            <img src="src/img/logo.png" alt="" className="w-32" />
+            <img src="/img/logo.png" alt="" className="w-32" />
           </div>
 
           {/* <p class="mx-auto mt-6 max-w-md text-center leading-relaxed text-gray-500">
