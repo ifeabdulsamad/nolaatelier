@@ -8,11 +8,13 @@ import Footer from "./components/Footer.jsx";
 function App() {
   return (
     <>
-      <Home />
-      <About />
-      <Product />
-      <Contact />
-      <Footer />
+      <div>
+        <Home />
+        <About />
+        <Product />
+        <Contact />
+        <Footer />
+      </div>
     </>
   );
 }

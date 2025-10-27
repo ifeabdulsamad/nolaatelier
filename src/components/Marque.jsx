@@ -3,16 +3,16 @@ import "../App.css";
 
 function Marque() {
   const images = [
-    "src/img/SLIDER.png",
-    "src/img/SLIDER.png",
-    "src/img/SLIDER.png",
-    "src/img/SLIDER.png",
-    "src/img/SLIDER.png",
-    "src/img/SLIDER.png",
-    "src/img/SLIDER.png",
-    "src/img/SLIDER.png",
-    "src/img/SLIDER.png",
-    "src/img/SLIDER.png",
+    "public/img/SLIDER.png",
+    "public/img/SLIDER.png",
+    "public/img/SLIDER.png",
+    "public/img/SLIDER.png",
+    "public/img/SLIDER.png",
+    "public/img/SLIDER.png",
+    "public/img/SLIDER.png",
+    "public/img/SLIDER.png",
+    "public/img/SLIDER.png",
+    "public/img/SLIDER.png",
   ];
 
   return (

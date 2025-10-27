@@ -11,7 +11,7 @@ export default function Navbar() {
     <nav className="w-full bg-bg shadow-md fixed top-0 left-0 z-50">
       <div className="max-w-7xl mx-auto px-6 py-3 flex items-center justify-between">
         <div className="w-[50px] h-[30px]">
-          <img src="src/img/logo.png" alt="logo" />
+          <img src="public/img/logo.png" alt="logo" />
         </div>
 
         <div className="hidden md:flex flex-1 items-center justify-center gap-10">
