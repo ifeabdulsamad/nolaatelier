@@ -11,7 +11,7 @@ const Home = () => {
       <Navbar />
       <main className="mx-auto absolute top-0 flex w-full align-middle h-screen  ">
         <div className="md:flex justify-center items-center mx-auto gap-[310px] h-screen ">
-          <div className="mobile-disable">
+          <div className="hidden md:block">
             <img
               src="/img/Brand name.png"
               alt="brand name"
@@ -30,7 +30,7 @@ const Home = () => {
           <div>
             <img
               src="/img/HERO-MODEL.png"
-              className="w-48 md:w-[12.5rem] object-contain md:mr-4 mt-9"
+              className="w-48 md:w-[12.5rem] object-contain md:mr-4 lg:mt-9 mt-32"
               alt=""
             />
           </div>
