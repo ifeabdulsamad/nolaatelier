@@ -11,7 +11,7 @@ const Home = () => {
       <Navbar />
       <main className="mx-auto absolute top-0 flex w-full align-middle h-screen  ">
         <div className="md:flex justify-center items-center mx-auto gap-[310px] h-screen ">
-          <div className="">
+          <div className="mobile-disable">
             <img
               src="/img/Brand name.png"
               alt="brand name"
