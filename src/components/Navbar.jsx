@@ -53,7 +53,7 @@ export default function Navbar() {
       </div>
 
       {isOpen && (
-        <div className="md:hidden bg-white shadow-inner px-6 pb-4 space-y-3">
+        <div className="md:hidden bg-bg shadow-inner px-6 pb-4 space-y-3">
           <a
             href="#home"
             className="block text-brand hover:text-gray-900 transition"
